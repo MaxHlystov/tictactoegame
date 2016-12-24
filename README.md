@@ -1,2 +1,3 @@
 # tictactoegame
-Tictactoe game
+Offline tictactoe game.
+Run "tictactoe.html" to start
